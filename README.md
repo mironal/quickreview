@@ -23,3 +23,11 @@ A straightforward pattern matching based review tool that checks your team's spe
 ## Edit
 
 run `swift package generate-xcodeproj`
+
+
+---
+
+This project is very inspired by the following repository.
+
+https://github.com/soutaro/querly
+
